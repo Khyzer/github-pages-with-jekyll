@@ -1,3 +1,3 @@
-# Welcome to my blog
+Welcome to Khyzer's website!
 
-I'm glad you are here. I plan to talk about ...
+Here, you'll find many PoE related stuff, tools and scripts
